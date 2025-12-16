@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Unidad2das</string>
+    <string name="app_title">Adolfo Ortiz Moreno</string>
+
+    <!-- Contenido de la tarjeta DNI -->
+    <string name="photo_content_description">Foto de perfil</string>
+    <string name="country_name">REINO DE ESPAÑA</string>
+    <string name="document_type">Documento Nacional de Identidad</string>
+    <string name="show_dni_button">Mostrar tu DNI</string>
+    <string name="info_banner_text">Información visible 60 segundos</string>
+
+    <!-- Etiquetas de datos -->
+    <string name="dni_label">DNI</string>
+    <string name="surnames_label">Apellidos</string>
+    <string name="name_label">Nombre</string>
+    <string name="birthdate_label">Nacimiento</string>
+    <string name="sex_label">Sexo</string>
+    <string name="expiry_date_label">Validez</string>
+
+    <!-- Valores de datos -->
+    <string name="dni_value">99949991H</string>
+    <string name="surnames_value">ESPAÑOLA ESPAÑOLA</string>
+    <string name="name_value">CARMEN</string>
+    <string name="birthdate_value">03 / 09 / 2001</string>
+    <string name="sex_value">F</string>
+    <string name="expiry_date_value">08 / 11 / 2029</string>
+</resources>
